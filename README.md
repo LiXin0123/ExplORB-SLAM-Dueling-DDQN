@@ -1,17 +1,11 @@
-ExplORB-SLAM-RL
+ExplORB-SLAM-Dueling-DDQN
 ============
-Build on top of ExplORB-SLAM which includes deep reinforcement models in previously explored areas in different Gazebo environments.
-
-All models are build on current existing Q Learning implementation:
- - Deep Q Network (DQN)
- - Double Deep Q Network (DDQN)
- - Dueling Deep Q Network (Dueling DQN)
- - Dueling Double Deep Q Network (Dueling DDQN)
+Build on top of ExplORB-SLAM which includes Dueling DDQN deep reinforcement models in previously explored areas in different Gazebo environments.
  
-Paper: [Reinforcement Learning with Frontier-Based Exploration via Autonmous Environment](https://arxiv.org/abs/2307.07296)
+Paper: 
 
 
-Contact: 2000553@sit.singaporetech.edu.sg
+Contact: 2807758L@student.gla.ac.uk
 
 Original Paper: [ExplORB-SLAM](https://github.com/JulioPlaced/ExplORB-SLAM)
 ------------
