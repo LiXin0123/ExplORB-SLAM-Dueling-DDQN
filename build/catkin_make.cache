@@ -1,0 +1,2 @@
+3dParty/kobuki_plugins:3dParty/orb_slam_2_ros:decision_maker:frontier_detector:robot_description
+-DCATKIN_DEVEL_PREFIX=/home/lx23/Downloads/explORB-SLAM-RL/devel -DCMAKE_INSTALL_PREFIX=/home/lx23/Downloads/explORB-SLAM-RL/install -G Unix Makefiles
