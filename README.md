@@ -49,7 +49,7 @@ Build Repository
 ------------
 1. Clone repo:
 ```
-git clone https://github.com/goldslime123/explORB-SLAM-RL.git
+git clone https://github.com/LiXin0123/ExplORB-SLAM-Dueling-DDQN.git
 ```
 
 2. Compile
